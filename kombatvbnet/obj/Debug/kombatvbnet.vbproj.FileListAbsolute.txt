@@ -1,0 +1,74 @@
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\kombatvbnet.exe
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\kombatvbnet.pdb
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\kombatvbnet.xml
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\GMap.NET.Core.dll
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\GMap.NET.Core.xml
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.Form1.resources
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.Resources.resources
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CopyComplete
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.exe
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.xml
+C:\Users\USER\source\repos\kombatvbnet\kombatvbnet\obj\Debug\kombatvbnet.pdb
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.exe
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.pdb
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.xml
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.Core.dll
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.Core.xml
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Form1.resources
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Resources.resources
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CopyComplete
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.exe
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.xml
+C:\Users\USER\source\repos\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.pdb
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.exe
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.pdb
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.Core.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbprojAssemblyReference.cache
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Form1.resources
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Resources.resources
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.GenerateResource.cache
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CoreCompileInputs.cache
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CopyComplete
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.exe
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.pdb
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.exe
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.pdb
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.xml
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.Core.xml
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.xml
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbprojAssemblyReference.cache
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Form1.resources
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Resources.resources
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.GenerateResource.cache
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CoreCompileInputs.cache
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CopyComplete
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.exe
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.xml
+D:\KULIAH\SKRIPSI\kombat_ivet_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.pdb
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.exe
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.pdb
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\kombatvbnet.xml
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.Core.xml
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\bin\Debug\GMap.NET.WindowsForms.xml
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbprojAssemblyReference.cache
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Form1.resources
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.Resources.resources
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.GenerateResource.cache
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CoreCompileInputs.cache
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.vbproj.CopyComplete
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.exe
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.xml
+D:\KULIAH\SKRIPSI\kombat_vbnet\kombatvbnet2\kombatvbnet\obj\Debug\kombatvbnet.pdb

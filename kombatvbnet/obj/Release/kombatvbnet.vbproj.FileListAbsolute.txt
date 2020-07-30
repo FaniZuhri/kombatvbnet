@@ -1,0 +1,16 @@
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.vbprojAssemblyReference.cache
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.Form1.resources
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.Resources.resources
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.vbproj.GenerateResource.cache
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.vbproj.CoreCompileInputs.cache
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\kombatvbnet.exe
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\kombatvbnet.pdb
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\kombatvbnet.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\GMap.NET.Core.dll
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\GMap.NET.WindowsForms.dll
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\GMap.NET.Core.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\bin\Release\GMap.NET.WindowsForms.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.vbproj.CopyComplete
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.exe
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.xml
+D:\FILE PUTRI\TA\kombatvbnet2\kombatvbnet2\kombatvbnet\obj\Release\kombatvbnet.pdb
